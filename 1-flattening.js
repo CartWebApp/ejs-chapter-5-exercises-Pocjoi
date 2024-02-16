@@ -1,6 +1,7 @@
 let arrays = [[1, 2, 3], [4, 5], [6]];
 // Your code here.
-function reduce(arrays){
+function (){
 }
-  console.log(reduce);
+  console.log(arrays.concat((arrays)=> arrays.length
+));
 // → [1, 2, 3, 4, 5, 6]
